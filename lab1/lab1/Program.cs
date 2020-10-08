@@ -191,6 +191,7 @@ namespace lab1
             Console.WriteLine("Вывод неявно типизированной строки: {0} ", t3d2);*/
             //4zadanie
             //Azadanie
+            /*
             (int first,string second,char third,string fourth,ulong fifth) namesAndAge = (19,"Daniil",'m',"Grodno",2001);
             //Bzadanie
             Console.WriteLine("Age:"+namesAndAge.first+", Sex:" + namesAndAge.third+ ", City:" + namesAndAge.fourth);
@@ -228,7 +229,47 @@ namespace lab1
                     }
                 }
             }
-            return Array;
+            return Array;*/
+
+            //6zadanie
+            var t3d1 = new[] { 1, 2, 3, 4, 5, 6 };
+            var t3d2 = "text";
+            Console.Write("Вывод неявно типизированного массива: ");
+            for (int i = 0; i < t3d1.Length; i++)
+                Console.Write("{0}, ", t3d1[i]);
+            Console.WriteLine();
+            Console.WriteLine("Вывод неявно типизированной строки: {0} ", t3d2);
+
+            int t6a1 = Int32.MaxValue;
+            int t6a2 = 12;
+            Console.WriteLine(Check(t6a1, t6a2));
+            Console.WriteLine(Uncheck(t6a1, t6a2));
+
+            int Check(int t6a1, int t6a2)
+            {
+                try
+                {
+                    checked
+                    {
+                        int result = t6a1 + t6a2;
+                        return result;
+                    }
+                }
+                catch (Exception message)
+                {
+                    Console.WriteLine("Perepolnenie");
+                }
+                return 0;
+            }
+
+            int Uncheck(int t6a1, int t6a2)
+            {
+                unchecked
+                {
+                    int result = t6a1 + t6a2;
+                    return result;
+                }
+            }
         }
     }
 }

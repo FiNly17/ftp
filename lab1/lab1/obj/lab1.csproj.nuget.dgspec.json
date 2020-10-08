@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Other\\Учёба\\ООП\\lab1\\lab1\\lab1.csproj": {}
+    "C:\\Users\\danik\\OneDrive\\Рабочий стол\\ftp\\lab1\\lab1\\lab1.csproj": {}
   },
   "projects": {
-    "C:\\Other\\Учёба\\ООП\\lab1\\lab1\\lab1.csproj": {
+    "C:\\Users\\danik\\OneDrive\\Рабочий стол\\ftp\\lab1\\lab1\\lab1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Other\\Учёба\\ООП\\lab1\\lab1\\lab1.csproj",
+        "projectUniqueName": "C:\\Users\\danik\\OneDrive\\Рабочий стол\\ftp\\lab1\\lab1\\lab1.csproj",
         "projectName": "lab1",
-        "projectPath": "C:\\Other\\Учёба\\ООП\\lab1\\lab1\\lab1.csproj",
+        "projectPath": "C:\\Users\\danik\\OneDrive\\Рабочий стол\\ftp\\lab1\\lab1\\lab1.csproj",
         "packagesPath": "C:\\Users\\danik\\.nuget\\packages\\",
-        "outputPath": "C:\\Other\\Учёба\\ООП\\lab1\\lab1\\obj\\",
+        "outputPath": "C:\\Users\\danik\\OneDrive\\Рабочий стол\\ftp\\lab1\\lab1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\danik\\AppData\\Roaming\\NuGet\\NuGet.Config",

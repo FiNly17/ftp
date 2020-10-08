@@ -11,3 +11,16 @@ C:\Other\Учёба\ООП\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.csproj.CoreCom
 C:\Other\Учёба\ООП\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.dll
 C:\Other\Учёба\ООП\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.pdb
 C:\Other\Учёба\ООП\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.genruntimeconfig.cache
+C:\Users\danik\OneDrive\Рабочий стол\ftp\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.exe
+C:\Users\danik\OneDrive\Рабочий стол\ftp\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.deps.json
+C:\Users\danik\OneDrive\Рабочий стол\ftp\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.runtimeconfig.json
+C:\Users\danik\OneDrive\Рабочий стол\ftp\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.runtimeconfig.dev.json
+C:\Users\danik\OneDrive\Рабочий стол\ftp\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.dll
+C:\Users\danik\OneDrive\Рабочий стол\ftp\lab1\lab1\bin\Debug\netcoreapp3.1\lab1.pdb
+C:\Users\danik\OneDrive\Рабочий стол\ftp\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.csprojAssemblyReference.cache
+C:\Users\danik\OneDrive\Рабочий стол\ftp\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.AssemblyInfoInputs.cache
+C:\Users\danik\OneDrive\Рабочий стол\ftp\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.AssemblyInfo.cs
+C:\Users\danik\OneDrive\Рабочий стол\ftp\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.csproj.CoreCompileInputs.cache
+C:\Users\danik\OneDrive\Рабочий стол\ftp\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.dll
+C:\Users\danik\OneDrive\Рабочий стол\ftp\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.pdb
+C:\Users\danik\OneDrive\Рабочий стол\ftp\lab1\lab1\obj\Debug\netcoreapp3.1\lab1.genruntimeconfig.cache
